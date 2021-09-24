@@ -6,3 +6,4 @@ int main() {
     for (int j = 5; j < 23; j++) {
     //j=5, b=231
     
+        
