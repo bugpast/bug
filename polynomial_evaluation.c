@@ -9,7 +9,7 @@ double power(double x, int q) {
 
     double m = x;
     for (int i = 1; i < q; i++){
-            m=x*x;
+            m=m*x;
         //HERE
         //this line should do some operation to achieve multiplications
         //only ONE line to be ADD
