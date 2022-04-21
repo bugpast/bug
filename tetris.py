@@ -342,4 +342,3 @@ class Tetris(object):
 
 if __name__ == "__main__":
     Tetris(18,32).run()
-
